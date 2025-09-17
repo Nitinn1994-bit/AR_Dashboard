@@ -1,4 +1,4 @@
-# A_R Dashboards
+# AR_Dashboard
 
 Business-ready **Power BI** dashboards for real-time receivables tracking, collections performance, and risk visibility.
 
